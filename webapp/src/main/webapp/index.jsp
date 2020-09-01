@@ -3,3 +3,4 @@
 <h2> Auto Trigger Working </h2>
 <h2> Checking auto scm poll </h2>
 <h2> Checking final push </h2>
+<h2> Checking sub directory change  </h2>
