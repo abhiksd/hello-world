@@ -5,5 +5,3 @@
 <h2> Checking sub directory change  </h2>
 <h2> Checking sub directory change  </h2>
 <h2> Checking sub directory change  </h2>
-<h2> Checking sub directory change  </h2>
-<h2> Checking sub directory change  </h2>
